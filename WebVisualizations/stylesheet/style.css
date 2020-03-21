@@ -20,7 +20,7 @@ a{
 }
 
 /* formatting of the summary and visualization boxes*/
-/* formatting the margin outside of the boxes and padding withing each box  */
+/* formatting the margin outside the boxes and padding withing each box  */
 .box {
     margin-top: 60px; 
     margin-bottom: 60px; 
@@ -33,7 +33,7 @@ a{
     color: rgb(145, 188, 189);
 }
 
-/* title header of the subtitle headers, e.g. comparisons page */
+/* title header of the subtitle headers, e.g. comparison page */
 .subtitle{
     color: rgb(149, 193, 194);
     font-size: 22px; 
