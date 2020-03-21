@@ -1,5 +1,6 @@
-/*project LATITUDE portion of the navbar */
+/*project LATITUDE */
 
+/* navbar */
 /*https://stackoverflow.com/questions/11178673/how-to-override-important*/
 .navigation .navbar-brand{
     color: white !important; 
