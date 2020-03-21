@@ -47,7 +47,7 @@ p{
     font-size: 19px; 
 }
 
-/* image size on the landing page + text wrap and resizing */
+/* image size on the landing page, text wrap and resizing */
 /*https://www.w3schools.com/css/css_float.asp */
 .main_fig{
     float: right;
