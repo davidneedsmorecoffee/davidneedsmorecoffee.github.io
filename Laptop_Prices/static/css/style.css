@@ -1,0 +1,73 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#centeredtext {
+  text-align:center;
+}
+
+.jumbotron {
+  background-color: #db350d;
+  color: white;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+img {
+  display: block; 
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.moveimage {
+  position: relative;
+  top: 20px;
+  }
+
+  #wrapper {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+
+@font-face {
+  font-family: 'pricedownblack';
+  src: url('pricedown_bl-webfont.woff2') format('woff2'),
+        url('pricedown_bl-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.contestant_ {
+  height: 7vh;
+  line-height: 7vh;
+  text-align:center;
+  vertical-align: middle;
+  color: white;
+}
+
+.second_container {
+  margin-top: 10px;
+}
+
+.first_place {
+  border: 8px solid gold;
+  padding: 5px;
+  border-radius: 25px;
+}
+
+.second_place {
+  border: 8px solid #ffffff;
+  padding: 5px;
+  border-radius: 25px;
+}
